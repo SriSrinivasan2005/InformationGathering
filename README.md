@@ -35,37 +35,37 @@ PING:
 ![alt text](ping.png)
 
 NC:
-```nc example.com```
+
 ###OUTPUT
 ![alt text](nc.png)
 
 NMAP:
-```nmap amazon.com```
+
 ###OUTPUT
 ![alt text](nmap.png)
 
 WHATWEB:
-```whatweb google.com```
+
 ###OUTPUT
 ![alt text](whatweb.png)
 
 HTTPRINT:
-```httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more```
+
 ###OUTPUT
 ![alt text](httprint.png)
 
 TCP TRACEROUTE:
-```traceroute -T saveetha.ac.in```
+
 ###OUTPUT
 ![alt text](<traceroute T.png>)
 
 UDP TRACEROUTE:
-```traceroute -U saveetha.ac.in```
+
 ###OUTPUT
 ![alt text](<traceroute U.png>)
 
 ICMP TRACEROUTE:
-```traceroute -T saveetha.ac.in```
+
 ###OUTPUT
 ![alt text](traceroute.png)
 
