@@ -35,38 +35,37 @@ PING:
 ![alt text](ping.png)
 
 NC:
-
-###OUTPUT
+### OUTPUT
 ![alt text](nc.png)
 
 NMAP:
 
-###OUTPUT
+### OUTPUT
 ![alt text](nmap.png)
 
 WHATWEB:
 
-###OUTPUT
+### OUTPUT
 ![alt text](whatweb.png)
 
 HTTPRINT:
 
-###OUTPUT
+### OUTPUT
 ![alt text](httprint.png)
 
 TCP TRACEROUTE:
 
-###OUTPUT
+### OUTPUT
 ![alt text](<traceroute T.png>)
 
 UDP TRACEROUTE:
 
-###OUTPUT
+### OUTPUT
 ![alt text](<traceroute U.png>)
 
 ICMP TRACEROUTE:
 
-###OUTPUT
+### OUTPUT
 ![alt text](traceroute.png)
 
 
